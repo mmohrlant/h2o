@@ -9,33 +9,30 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "Kodi",
-      "bundleIdentifier": "org.xbmc.kodi-ios",
+      "name": "kodi",
+      "bundleIdentifier": "com.fujr5axi6r.epphkluupm",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/2CKLnzN.png",
-      "tintColor": "#7f7f7f",
+      "developerName": "xbmc",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/gNT8wMH.png",
+      "tintColor": "#ff005f",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://drive.google.com/file/d/17kw4C1F2G9qeeQcHUi9uxK83fUq1yVFU/view?usp=sharing",
-          "size": 139000000,
+          "downloadURL": "https://drive.google.com/file/d/17kw4C1F2G9qeeQcHUi9uxK83fUq1yVFU/view?usp=drive_link",
+          "size": 139700000,
           "version": "21.2",
-          "buildVersion": "6969",
-          "date": "2025-07-20T00:32:00-05:00",
+          "buildVersion": "",
+          "date": "2025-07-20T00:48:00-05:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "Used for speech recognition",
-          "NSSpeechRecognitionUsageDescription": "Translate speech to text in virtual keyboard dialog"
-        }
+        "privacy": {}
       },
       "patreon": {}
     }
